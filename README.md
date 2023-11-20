@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building an astrology app with my astrologer cousins!**
 
-- 💬 Ask me about **Python,Git, HTML**
+- 💬 Ask me about **Python,Git, HTML, Web Scraping**
 
 - 👯 I’m looking to collaborate with **UX/UI designers on future projects.**
 
