@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Ari!</h1>
-<h3 align="center">A passionate health tech data engineer</h3>
+<h3 align="center">A passionate health tech data engineer with other creative interests</h3>
 
 - 🔭 I’m currently working on **building an astrology app with my astrologer cousins!**
 
