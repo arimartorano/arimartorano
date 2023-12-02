@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **UX/UI designers on future projects.**
 
-- 🌱 I’m studying for **Data+ & Datasys+**
+- 🌱 I’m studying for **DataSys+ & Cloud+**
 
 - ⚡ Fun fact **I'm building a '07 Honda Civic for a car show I'm getting prepared for. It's Sailor Moon themed and I will be engineering a few special features using Raspberry Pi.**
 
