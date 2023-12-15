@@ -9,7 +9,7 @@
 
 - 🌱 I’m studying for **DataSys+ & Cloud+**
 
-- ⚡ Fun fact **I'm building a '07 Honda Civic for a car show I'm getting prepared for. It's Sailor Moon themed and I will be engineering a few special features using Raspberry Pi and Python**
+- ⚡ Fun fact **I'm building a '07 Honda Civic for a car show. It's Sailor Moon themed and I will be engineering a few specs using Raspberry Pi and Python, stay tuned for behind the scenes as take you on a fun anime journey!**
 
 
 <h3 align="left">Languages and Tools:</h3>
